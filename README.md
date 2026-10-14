@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**gabriellettiere252-stack/gabriellettiere252-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou o Gabriel Lettiere 👋
+Desenvolvedor Front-end | React, JavaScript, Tailwind CSS | São Paulo, Brasil
 
-Here are some ideas to get you started:
+🔭 Atualmente construindo: Bico Rápido - marketplace freelancer com matching por IA
+🌱 Aprendendo: TypeScript e Next.js
+💼 Buscando: estágio / júnior como dev front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+React
+Tailwind
+JavaScript
+Vite
+
+Projetos em destaque
+⚡ bico-rapido - Marketplace freelancer com IA
